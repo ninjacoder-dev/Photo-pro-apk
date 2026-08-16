@@ -1,0 +1,7 @@
+{
+  "name": "Caméra Pro",
+  "description": "Application photo professionnelle avec contrôles manuels (ISO, vitesse, balance des blancs, mise au point), sélection 12MP/50MP et gestion avancée du zoom physique et numérique.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+

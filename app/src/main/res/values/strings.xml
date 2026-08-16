@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Caméra Pro</string>
+    <string name="camera_permission_title">Accès à la caméra requis</string>
+    <string name="camera_permission_desc">Pour capturer des photos haute résolution et régler manuellement tous les paramètres de prise de vue, veuillez autoriser l\'accès à l\'appareil photo.</string>
+    <string name="grant_permission">Autoriser la caméra</string>
+</resources>
